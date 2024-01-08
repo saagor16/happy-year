@@ -1,0 +1,145 @@
+*{
+    display: 100%;
+}
+.banner{
+    background-image: url(../resources/Banner\ Image.png);
+    display: 100%;
+    height: 900px;
+    border-radius: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+.first-h{
+    color: rgb(19, 221, 120);
+    font-size: 35px;
+    margin-left: 500px;
+    margin-top: 200px;
+}
+.secound-hh{
+    color: rgb(19, 221, 120);
+    font-size: 80px;
+    margin-top: 300px;
+    margin-left: 100px;
+    padding: 50px;
+}
+main{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.of{
+    text-align: center;
+}
+.off{
+    font-size: 80px;
+    color: #ff0000;
+}
+.off-one{
+    font-size: 20px;
+    color: #ff0000;
+}
+.off-two{
+    color: black;
+    font-size: 40px;
+}
+.vactor{
+    border-radius: 10px;
+}
+.happy{
+    background-image: url(../resources/Vectorrr.png);
+    position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+    border-radius: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    display: flex;
+}
+.happy-div{
+    width: 70%;
+    text-align: left;
+    padding-top: 170px;
+    padding-left: 50px;
+}
+.happy-img-div{
+    width: 30%;
+    padding-right: 20px;
+    margin-top: 70px;
+}
+.welcome{
+    font-size: 60px;
+}
+.dolor{
+    font-size: 15px;
+}
+.join{
+    font-size: 25px;
+}
+.the{
+    color: #ff0000;
+    font-size: 20px;
+}
+.our{
+    color: #070211;
+    font-size: 40px;
+}
+.dolor2{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 16px;
+}
+.imga , .imga2{
+    border-radius: 16px;
+    display: inline;
+    width: 450px;
+    height: 470px;
+    padding: 240px;
+}
+.last{
+    justify-content: center;
+    text-align: center;
+    background-color:#FF00000D ;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    padding-top: 120px;
+    margin-bottom: 20px;
+}
+.user{
+    background-color: none;
+    border-radius: 50px;
+}
+.subscribe{
+    background-color: red;
+     color: white;
+    border-radius: 0px 50px 50px 0px;
+}
+.footer{
+    width: 100%;
+    height: 100%;
+    background-color: #070211;
+    color: white;
+}
+.left1{
+    padding-left: 120px;
+    padding-top: 100px;
+}
+.left2{
+    padding-left: 120px;
+    padding-bottom: 50px;
+}
+.link{
+    justify-content: center;
+    padding: auto;
+    text-align: center;
+    padding: 80px;
+}
+.right{
+    text-align: left;
+    font-size: 24px;
+    justify-content: left;
+}
